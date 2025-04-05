@@ -1,6 +1,6 @@
 [gd_scene load_steps=3 format=3 uid="uid://doomxhf5fy3ve"]
 
-[ext_resource type="Script" path="res://BootManager.gd" id="1_64tiu"]
+[ext_resource type="Script" uid="uid://dryl7ogkjksgc" path="res://BootManager.gd" id="1_64tiu"]
 [ext_resource type="PackedScene" uid="uid://dslfrvy0t0t6f" path="res://test_level.tscn" id="2_xue86"]
 
 [node name="BootManager" type="Node"]

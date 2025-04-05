@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://cbyqymdjt0jvj"]
 
-[ext_resource type="Script" path="res://autoload/GlobalAnimationTransition.gd" id="1_jkfs4"]
+[ext_resource type="Script" uid="uid://u7ub11535hla" path="res://autoload/GlobalAnimationTransition.gd" id="1_jkfs4"]
 
 [node name="GlobalAnimationTransition" type="Node"]
 script = ExtResource("1_jkfs4")
